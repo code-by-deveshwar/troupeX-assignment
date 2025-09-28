@@ -114,3 +114,11 @@ Adjust `src/services/*` or provide environment variables as your backend require
 - When introducing animations beyond basics, consider reintroducing `react-native-reanimated` (currently replaced with core Animated for stability).
 
 Happy building! 💼📱
+
+## ⏳ Pending Tasks / Next Ideas
+
+- Wire the “Share something insightful” feed action to a real create-post flow.
+- Implement actual bookmark/save role endpoints on the job detail screen.
+- Replace placeholder backend URLs in `src/lib/api.ts` with environment-based configuration.
+- Add automated tests (unit + component) for key hooks and UI states.
+- Integrate analytics/error reporting to monitor user behaviour and failures in production.
