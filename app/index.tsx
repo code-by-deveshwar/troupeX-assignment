@@ -60,7 +60,7 @@ export default function LoginScreen() {
               Welcome back
             </Text>
           </View>
-          <Text className="text-4xl font-bold text-ink">Sign in to Troupe</Text>
+          <Text className="text-4xl font-bold text-ink">Sign in to TroupeX</Text>
           <Text className="text-base text-gray-600">{helperCopy}</Text>
         </View>
 
